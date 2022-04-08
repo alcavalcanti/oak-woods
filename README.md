@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1>Oak woods 🌳</h1>
-<h4>A Ronin game entirely made using HTML5 and JavaScript.</h4>
+<h4>A Ronin fighting game entirely made using HTML5 and JavaScript.</h4>
 <br>
 </div>
 <p align="center">
