@@ -22,6 +22,12 @@
 <br />
 
 
+<div align="center">
+<h1>About ℹ️</h1>
+</div>
+<br />
+
+
 
 Did you like the end result? Did you fork the repository? Please leave a star ⭐ and also follow Chris on youtube, he is constantly sharing similar content for free on his channel. 
 <br />
